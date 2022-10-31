@@ -1,0 +1,9 @@
+@media only screen and (max-width: 768px) {
+	.body {
+		height: 300px;
+   }
+	.fondo2 {
+		background-image: url(/Imagenes/Fondo.jpg);
+		background-size: 100%;
+   }
+}
