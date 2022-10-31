@@ -1,3 +1,3 @@
 # Ahorcado-Challenge-ONE
 Challenge del juego del ahorcado- temática Halloween
-<img src="/imagenes/imagen_2022-10-31_122913884.png" alt="Captura del juego">
+[![imagen-2022-10-31-123737638.png](https://i.postimg.cc/zX94HXpK/imagen-2022-10-31-123737638.png)](https://postimg.cc/56SsZJh2)
