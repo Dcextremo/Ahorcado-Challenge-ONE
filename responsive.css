@@ -3,7 +3,7 @@
 		height: 300px;
    }
 	.fondo2 {
-		background-image: url(/Imagenes/Fondo.jpg);
+		background-image: url(Imagenes/Fondo.jpg);
 		background-size: 100%;
    }
 }
