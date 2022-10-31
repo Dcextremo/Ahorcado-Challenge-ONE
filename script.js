@@ -52,7 +52,7 @@ function jugar()
     btn.addEventListener('click',jugar);
     btn.disabled=true;
     
-    imagen.src= `/Imagenes/Esqueleto/0.png`;
+    imagen.src= `Imagenes/Esqueleto/0.png`;
    
     errores=0;
     aciertos=0;
