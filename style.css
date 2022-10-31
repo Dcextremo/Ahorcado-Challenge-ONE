@@ -41,7 +41,7 @@ body {
 	text-align: center;
 	align-items: center;
 	position: relative;
-	background-image: url(/Imagenes/Fondo-login.jpg);
+	background-image: url(Imagenes/Fondo-login.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -472,7 +472,7 @@ button:hover:after {
 }
 
 .juego {
-	background-image: url(/Imagenes/Fondo.jpg);
+	background-image: url(Imagenes/Fondo.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
