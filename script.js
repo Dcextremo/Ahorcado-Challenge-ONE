@@ -110,7 +110,7 @@ function click_letras(event)
     {
         errores++;
         
-        const source= `/Imagenes/Esqueleto/${errores}.png`;
+        const source= `Imagenes/Esqueleto/${errores}.png`;
         imagen.src = source;
     }
     if(errores==6)
